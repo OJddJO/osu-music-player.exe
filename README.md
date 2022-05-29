@@ -16,6 +16,8 @@ A music player that import automatically your osu! songs
 
 # Version :
 
+-V1.1.1 : Bug fix
+
 -V1.1 : Added *ffmpeg* converter
 
 -V1.0 : Release
