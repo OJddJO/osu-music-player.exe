@@ -2,6 +2,8 @@
 
 A music player that import automatically your osu! songs
 
+![Screenshot](screen.png)
+
 *Written in Python , uses Python 3.10*
 
 # How to install :
