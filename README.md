@@ -18,6 +18,8 @@ A music player that import automatically your osu! songs
 
 # Version :
 
+-V2.1 : Added Volume control
+
 -V2.0 : Better UI, Added Shuffle option
 
 -V1.4 : Added Loop option
