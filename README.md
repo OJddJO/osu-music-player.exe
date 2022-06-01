@@ -16,7 +16,7 @@ A music player that import automatically your osu! songs
 
 - Open **osu!player** file in the *osu!player* directory to run the app 
 
-*It is normal if there is some cmd that popup*
+*It is normal if there are some cmd that popup*
 
 # Version :
 
