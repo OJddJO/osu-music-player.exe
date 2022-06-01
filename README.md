@@ -20,6 +20,8 @@ A music player that import automatically your osu! songs
 
 # Version :
 
+-V2.3 : Better import
+
 -V2.2 : Better "Previous" script
 
 -V2.1 : Added Volume control
