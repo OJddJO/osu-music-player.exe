@@ -20,6 +20,8 @@ A music player that import automatically your osu! songs
 
 # Version :
 
+-V2.6 : Better keyboard input (Ctrl+Alt+Space, Ctrl+Alt+Arrows)
+
 -V2.5 : Keyboard Input (Space = Play/Pause, Arrows = Next/Previous)
 
 -V2.4 : Improved Buttons
