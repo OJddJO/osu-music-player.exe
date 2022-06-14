@@ -20,6 +20,8 @@ A music player that import automatically your osu! songs
 
 # Version :
 
+-V2.8 : Better import
+
 -V2.7 : Added re-import all songs in Menu
 
 -V2.6 : Better keyboard input (Ctrl+Alt+Space, Ctrl+Alt+Arrows)
