@@ -1,6 +1,7 @@
 # Osu!MusicPlayer for Windows
 
 A music player that import automatically your osu! songs
+
 With a Discord activity status !
 
 ![Screenshot](screen.png)
