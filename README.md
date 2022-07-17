@@ -8,7 +8,7 @@ A music player that import automatically your osu! songs
 
 # How to install :
 
-- Install **ffmpeg** and add it to **PATH**. You can find a tutorial **[here](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/).**
+- Install **ffmpeg** and add it to **`PATH`**. You can find a tutorial **[here](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/).**
 
 - Download the .zip file and unzip it.
 
