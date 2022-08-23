@@ -22,6 +22,8 @@ With a Discord activity status !
 
 # Version :
 
+-V2.9.1 : Bug Fix (importSongs)
+
 -V2.9 : New keybinds (Ctrl+Alt+Up = **Volume +**, Ctrl+Alt+Down = **Volume -**)
 
 -V2.8 : Better import
