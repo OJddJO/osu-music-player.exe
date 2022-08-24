@@ -10,7 +10,7 @@ With a Discord activity status !
 
 # How to install :
 
-- Install **ffmpeg** and add it to **`PATH`**. You can find a tutorial **[here](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/).**
+- Install **ffmpeg** and add it to **`PATH`**. You can find a tutorial **[here](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/).** (Steps 1-4)
 
 - Download the .zip file and unzip it.
 
