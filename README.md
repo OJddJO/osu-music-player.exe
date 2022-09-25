@@ -22,24 +22,4 @@ With a Discord activity status !
 
 # Version :
 
--V2.9.1 : Bug Fix (importSongs)
-
--V2.9 : New keybinds (Ctrl+Alt+Up = **Volume +**, Ctrl+Alt+Down = **Volume -**)
-
--V2.8 : Better import
-
--V2.7 : Added re-import all songs in Menu
-
--V2.6 : Better keyboard input (Ctrl+Alt+Space, Ctrl+Alt+Arrows)
-
--V2.5 : Keyboard Input (Space = Play/Pause, Arrows = Next/Previous)
-
--V2.4 : Improved Buttons
-
--V2.3 : Better import
-
--V2.2 : Better "Previous" script
-
--V2.1 : Added Volume control
-
--V2.0 : Better UI, Added Shuffle option
+-V3.0 : Major improvement (importSongs)
