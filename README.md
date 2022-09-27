@@ -12,14 +12,14 @@ With a Discord activity status !
 
 - Install **ffmpeg** and add it to **`PATH`**. You can find a tutorial **[here](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/).** (Steps 1-4)
 
-- Download the .zip file and unzip it.
+- Download the installer
 
-- Copy the *`osu!player`* directory into your *`Music`* directory
-
-- Launch *`osu!player`* in the *`osu!player`* directory to run the app 
+- Launch the installer and follow the instructions
 
 *It is normal if there are some cmd that popup*
 
 # Version :
+
+-V3.1 : You can now choose the folder where you want to install the app
 
 -V3.0 : Major improvement (importSongs)
