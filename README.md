@@ -20,11 +20,11 @@ With a Discord activity status !
 
 # Keybindings:
 
-- `ctrl + alt + up/down` : **Volume**
+- `ctrl + alt + space` : **Play/Pause**
 
 - `ctrl + alt + left/right` : **Previous/Next**
 
-- `ctrl + alt + space` : **Play/Pause**
+- `ctrl + alt + up/down` : **Volume**
 
 # Version :
 
