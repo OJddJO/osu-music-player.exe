@@ -18,6 +18,14 @@ With a Discord activity status !
 
 *It is normal if there are some cmd that popup*
 
+# Keybindings:
+
+- `ctrl + alt + up/down` : **Volume**
+
+- `ctrl + alt + left/right` : **Previous/Next**
+
+- `ctrl + alt + space` : **Play/Pause**
+
 # Version :
 
 -V3.1 : You can now choose the folder where you want to install the app
