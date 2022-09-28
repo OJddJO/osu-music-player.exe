@@ -28,6 +28,8 @@ With a Discord activity status !
 
 # Version :
 
+-V3.3 : Bug fix
+
 -V3.2 : Bug Fix
 
 -V3.1 : You can now choose the folder where you want to install the app
