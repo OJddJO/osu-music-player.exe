@@ -16,7 +16,7 @@ With a Discord activity status !
 
 - Launch the installer and follow the instructions
 
-*It is normal if there are some cmd that popup*
+*It is normal if there is a cmd that popup*
 
 # Keybindings:
 
