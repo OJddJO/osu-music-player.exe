@@ -28,6 +28,8 @@ With a Discord activity status !
 
 # Version :
 
+-V4.0 : Added Search Bar, Major improvement, Optimization
+
 -V3.3 : Bug fix
 
 -V3.2 : Bug Fix
