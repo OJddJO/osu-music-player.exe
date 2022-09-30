@@ -14,9 +14,11 @@ With a Discord activity status !
 
 - Download the installer
 
+- Click on more info and execute if a window "Windows protected your pc" poped up (it's not a virus you can check the code [here](https://github.com/OJddJO/osu-music-player/tree/main/osu!player)
+
 - Launch the installer and follow the instructions
 
-*It is normal if there are some cmd that popup*
+*It is normal if there is a cmd that popup*
 
 # Keybindings:
 
