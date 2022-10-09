@@ -32,6 +32,8 @@ With a Discord activity status !
 
 # Version :
 
+-V4.4 : Bug Fix
+
 -V4.3 : Bug Fix, Optimization
 
 -V4.2 : Bug Fix
