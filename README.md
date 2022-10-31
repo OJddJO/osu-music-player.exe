@@ -32,6 +32,8 @@ With a Discord activity status !
 
 # Version :
 
+-V4.6 : Optimized Discord RPC
+
 -V4.5 : Better Search algorithm
 
 -V4.4 : Bug Fix
