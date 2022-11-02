@@ -33,6 +33,8 @@ With a Discord activity status !
 
 # Version :
 
+-V4.7 : Save the last volume level
+
 -V4.6 : Optimized Discord RPC
 
 -V4.5 : Better Search algorithm
