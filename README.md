@@ -33,6 +33,8 @@ With a Discord activity status !
 
 # Version :
 
+-V5.0 : Added playlist system
+
 -V4.8 : Added double click to play
 
 -V4.7 : Save the last volume level
@@ -50,11 +52,3 @@ With a Discord activity status !
 -V4.1 : Added Check for updates
 
 -V4.0 : Added Search Bar, Major improvement, Optimization
-
--V3.3 : Bug Fix
-
--V3.2 : Bug Fix
-
--V3.1 : You can now choose the folder where you want to install the app
-
--V3.0 : Major improvement (importSongs)
