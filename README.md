@@ -33,6 +33,8 @@ With a Discord activity status !
 
 # Version :
 
+-V5.1 : Bug fix (playlist not working well)
+
 -V5.0 : Added playlist system, major improvment
 
 -V4.8 : Added double click to play
