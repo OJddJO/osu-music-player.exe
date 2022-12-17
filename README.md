@@ -17,7 +17,7 @@ With a Discord activity status !
 
 - Launch the installer
 
-- Click on `More info` and `Run anyway` if a window "Windows protected your pc" poped up (it's not a virus you can check the code [here](https://github.com/OJddJO/osu-music-player/tree/main/osu!player))
+- Click on `More info` and `Run anyway` if a window "Windows protected your pc" poped up (the app is safe, you can check the code [here](https://github.com/OJddJO/osu-music-player/tree/main/osu!player))
 
 *To disable this window: Go to **Start > Settings > Security > App and Browser Control > Reputation-based protection settings and then disable it** (the option is quite unecessary because there is something called antivirus)*
 
