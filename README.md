@@ -33,6 +33,8 @@ With a Discord activity status !
 
 # Version :
 
+-V5.2 : Better import
+
 -V5.1 : Bug fix (playlist not working well)
 
 -V5.0 : Added playlist system, major improvment
