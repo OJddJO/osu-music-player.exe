@@ -35,6 +35,8 @@ With a Discord activity status !
 
 # Version :
 
+-V5.5 : Bug fix
+
 -V5.4 : Better algorithm to name songs
 
 -V5.3 : Better algorithm to name songs
