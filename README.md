@@ -35,6 +35,8 @@ With a Discord activity status !
 
 # Version :
 
+-V5.7 : Bug fix
+
 -V5.6 : Bug fix
 
 -V5.5 : Bug fix
