@@ -35,6 +35,8 @@ With a Discord activity status !
 
 # Version :
 
+-V5.8 : Added loop one song, focus on search bar when toggled
+
 -V5.7 : Bug fix
 
 -V5.6 : Bug fix
