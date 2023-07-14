@@ -35,6 +35,8 @@ With a Discord activity status !
 
 # Version :
 
+-V5.12 : Optimization
+
 -V5.11 : Error message
 
 -V5.10 : Bug Fix
