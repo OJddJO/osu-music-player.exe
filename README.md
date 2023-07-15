@@ -2,8 +2,8 @@
 
 A music player that import automatically your osu! songs
 
-![Screenshot](2023-07-15.153958.png.png)
-![Screenshot](2023-07-15.154145.png.png)
+![Screenshot](2023-07-15.153958.png)
+![Screenshot](2023-07-15.154145.png)
 
 With a Discord activity status !
 
