@@ -35,6 +35,8 @@ With a Discord activity status !
 
 # Version :
 
+-V6.2: Bug fix
+
 -V6.1: Bug fix
 
 -V6.0: Added in-app song downloader
