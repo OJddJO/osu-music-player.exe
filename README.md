@@ -35,6 +35,8 @@ With a Discord activity status !
 
 # Version :
 
+-V7.0: Improved Playlist System, Major improvement, Optimization, Bug Fix
+
 -V6.3: Added notification for download
 
 -V6.2/6.2.1: Bug fix
@@ -68,21 +70,3 @@ With a Discord activity status !
 -V5.1 : Bug fix (playlist not working well)
 
 -V5.0 : Added playlist system, major improvment
-
--V4.8 : Added double click to play
-
--V4.7 : Save the last volume level
-
--V4.6 : Optimized Discord RPC
-
--V4.5 : Better Search algorithm
-
--V4.4 : Bug Fix
-
--V4.3 : Bug Fix, Optimization
-
--V4.2 : Bug Fix
-
--V4.1 : Added Check for updates
-
--V4.0 : Added Search Bar, Major improvement, Optimization
