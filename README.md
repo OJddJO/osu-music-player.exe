@@ -35,6 +35,8 @@ With a Discord activity status !
 
 # Version :
 
+-V7.1: Bug Fix
+
 -V7.0: Improved Playlist System, Major improvement, Optimization, Bug Fix
 
 -V6.3: Added notification for download
